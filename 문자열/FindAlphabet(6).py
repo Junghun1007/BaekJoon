@@ -8,5 +8,3 @@ for i in word:
 
 for w in num_list:
     print(w,end=" ")
-
-
